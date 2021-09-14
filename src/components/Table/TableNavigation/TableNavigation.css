@@ -1,0 +1,10 @@
+.Table-navigation {
+  padding-top: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Table-navigation button {
+  margin-right: 8px;
+}

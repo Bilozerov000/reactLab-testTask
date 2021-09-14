@@ -1,0 +1,22 @@
+.Pagination-button {
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 48px;
+  border-radius: 8px;
+  font-size: 16px;
+  color: #1a1a1a;
+  background-color: transparent;
+  border: 2px solid #f1f1f1;
+  transition: border-color 0.3s ease-in;
+}
+
+.Pagination-button:focus {
+  background-color: #3a80ba;
+  color: #ffffff;
+}
+
+.Pagination-button:hover {
+  border-color: #3a80ba;
+}

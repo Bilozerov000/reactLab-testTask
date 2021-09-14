@@ -1,0 +1,12 @@
+.Wrapper {
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+.Wrapper main {
+  flex-grow: 1;
+}

@@ -1,0 +1,22 @@
+.form-wrapper {
+  display: flex;
+  padding-bottom: 20px;
+}
+.Search-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  background: #fff;
+  font-size: 16px;
+  border: 1px solid #f1f1f1;
+  border-radius: 10px;
+  height: 50px;
+  width: 400px;
+}
+
+.Search-form input {
+  flex-grow: 1;
+  padding: 10px 15px;
+  color: #4e4d4d;
+}
